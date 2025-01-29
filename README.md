@@ -1,13 +1,80 @@
-This Power BI dashboard provides a comprehensive analysis of car parts inventory, enabling efficient stock management and insightful data-driven decisions. The dashboard visualizes key metrics, including:
+# 🚗 Car Parts Inventory Dashboard
 
-Overall Stock Status 📈: A pie chart shows the availability of parts across categories.
+## 📌 Overview
+This Power BI dashboard provides a comprehensive analysis of car parts inventory, enabling efficient stock management and insightful data-driven decisions. The dashboard visualizes key metrics to help businesses optimize procurement strategies and understand market trends.
 
-Average Price by Part Type 💰: A bar chart displays pricing trends by part type, helping with cost analysis.
+## 📊 Key Features
 
-Stock by Country of Origin 🌍: An interactive map provides a geographical overview of parts sourcing.
+### 📈 Overall Stock Status
+- A **pie chart** displays the availability of parts across different categories, offering a quick stock status overview.
 
-Parts by Brand and Model 🏷️: A detailed table outlines the parts inventory by specific brands and models.
+### 💰 Average Price by Part Type
+- A **bar chart** highlights pricing trends across various part types, assisting in cost analysis and pricing strategy.
 
-Warranty Period Distribution 🛠️: A bar chart depicts the distribution of warranty periods, aiding in quality and customer service assessments.
+### 🌍 Stock by Country of Origin
+- An **interactive map** provides a geographical breakdown of where car parts are sourced from, aiding in supplier evaluation.
 
-This project showcases my skills in data visualization 📊, Power BI 💻, and inventory analysis 🔍, offering insights into car parts stock status, sourcing locations, pricing, and warranty distribution. It’s a valuable tool for inventory management, optimizing procurement strategies, and understanding market trends.
+### 🏷️ Parts by Brand and Model
+- A **detailed table** lists parts inventory by specific brands and car models for easy reference.
+
+### 🛠️ Warranty Period Distribution
+- A **bar chart** visualizes the distribution of warranty periods across different parts, helping with quality control and customer service planning.
+
+## 📂 Dataset Metadata
+The dataset used in this dashboard includes the following attributes:
+
+| Column Name           | Description                                        |
+|-----------------------|----------------------------------------------------|
+| Part_ID              | Unique identifier for each car part               |
+| Part_Name            | Name of the car part                               |
+| Part_Type            | Category of the car part                          |
+| Brand               | Manufacturer/Brand of the part                    |
+| Car_Model           | Compatible car model                              |
+| Year                | Manufacturing year                                 |
+| Material            | Material composition of the part                  |
+| Condition           | Condition (New/Used)                              |
+| Country_of_Origin   | Country where the part was sourced from           |
+| Weight_kg           | Weight of the part in kilograms                   |
+| Warranty_Years      | Warranty period for the part                      |
+| Stock_Availability  | Availability status (In Stock/Out of Stock)       |
+| Price_LKR           | Price of the part in LKR                          |
+| Length_cm           | Length of the part in cm                          |
+| Width_cm            | Width of the part in cm                           |
+| Height_cm           | Height of the part in cm                          |
+
+## 🚀 Technologies Used
+- **Power BI** 📊 - For data visualization
+- **Excel/CSV** 📄 - Dataset storage and management
+- **SQL** 🗄️ - Data querying and processing
+- **Python (Optional)** 🐍 - Data cleaning and transformation
+
+## 📥 Installation & Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/car-parts-dashboard.git
+   ```
+2. Open the dataset in Power BI.
+3. Load and transform data as needed.
+4. Explore the pre-built dashboard or customize it according to your needs.
+
+## 🎯 Use Cases
+- **Inventory Management**: Track stock availability and optimize procurement.
+- **Supplier Analysis**: Evaluate sourcing regions and supplier reliability.
+- **Pricing Strategy**: Analyze price trends by part type and brand.
+- **Warranty & Quality Control**: Monitor warranty periods and assess product durability.
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit issues or pull requests to enhance this project.
+
+## 📞 Contact
+For any inquiries, reach out via:
+- 📧 Email: your-email@example.com
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+---
+🚀 **Elevate your inventory management with data-driven insights!**
+
+### ⭐ *Star this repository if you like our project!* ⭐
