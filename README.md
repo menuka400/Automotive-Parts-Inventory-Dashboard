@@ -66,14 +66,6 @@ The dataset used in this dashboard includes the following attributes:
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to enhance this project.
-
-## 📞 Contact
-For any inquiries, reach out via:
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
 ---
 🚀 **Elevate your inventory management with data-driven insights!**
 
